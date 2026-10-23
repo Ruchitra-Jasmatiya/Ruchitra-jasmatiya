@@ -347,7 +347,11 @@ Search, filter and manage salary data across 10 countries, with USD-normalised i
 
 <br/><br/>
 
-<img width="100%" alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Ruchitra-Jasmatiya&bg_color=F5F0E6&color=800020&line=800020&point=4A1020&area=true&area_color=B5485D&hide_border=true" />
+<img width="100%" alt="Contribution graph" src="https://ghchart.rshah.org/800020/Ruchitra-Jasmatiya" />
+<br/><sub>My contribution calendar for the last year</sub>
+<!-- Contribution graph: a maroon heat map of your public contributions.
+     To show private work too, turn on "Include private contributions on my profile"
+     in your GitHub profile settings. -->
 
 <br/><br/>
 

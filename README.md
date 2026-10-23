@@ -135,7 +135,7 @@ I'm a passionate **Software Engineer** with a strong foundation in **AI, Machine
 <table width="100%">
 <tr>
 <td width="36%" align="center" valign="middle">
-<a href="https://verifacex.vercel.app/"><img width="100%" height="230" alt="VeriFace-X" src="https://capsule-render.vercel.app/api?type=slice&height=230&color=0:0D1117,50:3B0A1A,100:800020&text=VeriFace-X&fontColor=F5F0E6&fontSize=40&fontAlignY=40&desc=AI%20Face%20Forgery%20Detection&descSize=15&descAlignY=62&descColor=E8C9A0&animation=fadeIn" /></a>
+<a href="https://verifacex.vercel.app/"><img width="100%" alt="VeriFace-X" src="https://wsrv.nl/?url=https%3A%2F%2Fwww.kentcam.com%2Fcamattendance%2Fblog%2Fwp-content%2Fuploads%2F2023%2F01%2FMicrosoftTeams-image-237-1024x535.jpg&w=600&h=460&fit=cover&a=attention&q=85" /></a>
 </td>
 <td width="64%" valign="top">
 
@@ -160,7 +160,7 @@ Detects manipulated and AI-generated faces with a CNN deep-learning model and a 
 <table width="100%">
 <tr>
 <td width="36%" align="center" valign="middle">
-<a href="https://github.com/Ruchitra-Jasmatiya/sahyog-final"><img width="100%" height="230" alt="Sahyog" src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:2A0B2E,50:5C0A1E,100:7A1F3D&text=Sahyog&fontColor=F5F0E6&fontSize=48&fontAlignY=40&desc=Facial%20Attendance%20App&descSize=15&descAlignY=62&descColor=E8C9A0&animation=scaleIn" /></a>
+<a href="https://github.com/Ruchitra-Jasmatiya/sahyog-final"><img width="100%" alt="Sahyog" src="https://wsrv.nl/?url=https%3A%2F%2Fimages.pexels.com%2Fphotos%2F33561715%2Fpexels-photo-33561715%2Ffree-photo-of-charming-nighttime-view-of-illuminated-hostel.jpeg%3Fcs%3Dtinysrgb%26dpr%3D1%26w%3D500&w=600&h=460&fit=cover&a=attention&q=85" /></a>
 </td>
 <td width="64%" valign="top">
 
@@ -185,7 +185,7 @@ Students verify identity with face recognition. Google ML Kit detects the face, 
 <table width="100%">
 <tr>
 <td width="36%" align="center" valign="middle">
-<a href="https://freshnfreeze.netlify.app/"><img width="100%" height="230" alt="FreshnFreeze" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:5C0A1E,50:9C2A3F,100:C2455E&text=FreshnFreeze&fontColor=F5F0E6&fontSize=36&fontAlignY=36&desc=Ice%20Cream%20Experience&descSize=15&descAlignY=58&descColor=FBE3E8&animation=twinkling" /></a>
+<a href="https://freshnfreeze.netlify.app/"><img width="100%" alt="FreshnFreeze" src="https://wsrv.nl/?url=https%3A%2F%2Fpng.pngtree.com%2Fthumb_back%2Ffh260%2Fbackground%2F20250309%2Fpngtree-delicious-pistachio-kulfi-ice-cream-served-in-traditional-clay-pot-with-image_17051707.jpg&w=600&h=460&fit=cover&a=attention&q=85" /></a>
 </td>
 <td width="64%" valign="top">
 
@@ -212,7 +212,7 @@ A visually immersive, fully responsive landing page for an artisan ice cream bra
 <table width="100%">
 <tr>
 <td width="36%" align="center" valign="middle">
-<a href="https://github.com/Ruchitra-Jasmatiya/AMS"><img width="100%" height="230" alt="AMS" src="https://capsule-render.vercel.app/api?type=soft&height=230&color=0:0D1117,50:2B0F1E,100:6B1B2B&text=AMS&fontColor=F5F0E6&fontSize=60&fontAlignY=40&desc=Assignment%20Management&descSize=15&descAlignY=62&descColor=E8C9A0&animation=fadeIn" /></a>
+<a href="https://github.com/Ruchitra-Jasmatiya/AMS"><img width="100%" alt="AMS" src="https://wsrv.nl/?url=https%3A%2F%2Fthumbs.dreamstime.com%2Fb%2Fgroup-friends-studying-together-29637816.jpg&w=600&h=460&fit=cover&a=attention&q=85" /></a>
 </td>
 <td width="64%" valign="top">
 
@@ -235,7 +235,7 @@ A full-stack academic workspace where faculty publish assignments and students s
 <table width="100%">
 <tr>
 <td width="36%" align="center" valign="middle">
-<a href="https://github.com/Ruchitra-Jasmatiya/ACME-salary-project"><img width="100%" height="230" alt="ACME Salary" src="https://capsule-render.vercel.app/api?type=cylinder&height=230&color=0:33101C,50:5C0A1E,100:7A1F3D&text=ACME%20Salary&fontColor=F5F0E6&fontSize=38&fontAlignY=40&desc=HR%20Pay%20Insights&descSize=15&descAlignY=62&descColor=E8C9A0&animation=scaleIn" /></a>
+<a href="https://github.com/Ruchitra-Jasmatiya/ACME-salary-project"><img width="100%" alt="ACME Salary" src="https://wsrv.nl/?url=https%3A%2F%2Fstatic.thenounproject.com%2Fpng%2F4190214-200.png&w=600&h=460&fit=contain&bg=F5F0E6" /></a>
 </td>
 <td width="64%" valign="top">
 

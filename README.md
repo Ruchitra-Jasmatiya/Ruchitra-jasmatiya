@@ -199,7 +199,7 @@ A visually immersive, fully responsive landing page for an artisan ice cream bra
 <img src="https://img.shields.io/badge/Vite-F0DDD8?style=flat-square" />
 <img src="https://img.shields.io/badge/Netlify-F0DDD8?style=flat-square" />
 
-<a href="https://freshnfreeze.netlify.app/"><img alt="Live demo" src="https://img.shields.io/badge/LIVE_DEMO_%E2%86%92-800020?style=for-the-badge" /></a>
+<a href="https://freshnfreeze.netlify.app/"><img alt="Live demo" src="[https://img.shields.io/badge/LIVE_DEMO_%E2%86%92-800020?style=for-the-badge](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW6qv7I9MxITiK1F__KHUwtiWlKjghgYARbV8r2Q1oQ-e623V8KlQUjllz&s=10)" /></a>
 <!-- FRESHNFREEZE-REPO: replace the link below with your FreshnFreeze GitHub repo link.
      Until then it opens your repository list, so the button never shows a 404 page. -->
 <a href="https://github.com/Ruchitra-Jasmatiya?tab=repositories"><img alt="View code" src="https://img.shields.io/badge/VIEW_CODE_%E2%86%92-F0DDD8?style=for-the-badge&logo=github&logoColor=800020" /></a>

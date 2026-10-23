@@ -185,7 +185,7 @@ Students verify identity with face recognition. Google ML Kit detects the face, 
 <table width="100%">
 <tr>
 <td width="36%" align="center" valign="middle">
-<a href="https://freshnfreeze.netlify.app/"><img width="100%" alt="FreshnFreeze" src="https://wsrv.nl/?url=https%3A%2F%2Fpng.pngtree.com%2Fthumb_back%2Ffh260%2Fbackground%2F20250309%2Fpngtree-delicious-pistachio-kulfi-ice-cream-served-in-traditional-clay-pot-with-image_17051707.jpg&w=600&h=460&fit=cover&a=attention&q=85" /></a>
+<a href="https://freshnfreeze.netlify.app/"><img width="100%" alt="FreshnFreeze" src="https://wsrv.nl/?url=https%3A%2F%2Fencrypted-tbn0.gstatic.com%2Fimages%3Fq%3Dtbn%3AANd9GcTW6qv7I9MxITiK1F__KHUwtiWlKjghgYARbV8r2Q1oQ-e623V8KlQUjllz%26s%3D10&w=600&h=460&fit=cover&a=attention&q=85" /></a>
 </td>
 <td width="64%" valign="top">
 
@@ -199,7 +199,7 @@ A visually immersive, fully responsive landing page for an artisan ice cream bra
 <img src="https://img.shields.io/badge/Vite-F0DDD8?style=flat-square" />
 <img src="https://img.shields.io/badge/Netlify-F0DDD8?style=flat-square" />
 
-<a href="https://freshnfreeze.netlify.app/"><img alt="Live demo" src="[https://img.shields.io/badge/LIVE_DEMO_%E2%86%92-800020?style=for-the-badge](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW6qv7I9MxITiK1F__KHUwtiWlKjghgYARbV8r2Q1oQ-e623V8KlQUjllz&s=10)" /></a>
+<a href="https://freshnfreeze.netlify.app/"><img alt="Live demo" src="https://img.shields.io/badge/LIVE_DEMO_%E2%86%92-800020?style=for-the-badge" /></a>
 <!-- FRESHNFREEZE-REPO: replace the link below with your FreshnFreeze GitHub repo link.
      Until then it opens your repository list, so the button never shows a 404 page. -->
 <a href="https://github.com/Ruchitra-Jasmatiya?tab=repositories"><img alt="View code" src="https://img.shields.io/badge/VIEW_CODE_%E2%86%92-F0DDD8?style=for-the-badge&logo=github&logoColor=800020" /></a>

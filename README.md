@@ -189,7 +189,7 @@ Students verify identity with face recognition. Google ML Kit detects the face, 
 </td>
 <td width="64%" valign="top">
 
-**[FreshnFreeze](https://freshnfreeze.netlify.app/)** ↗ &nbsp;·&nbsp; <sub>⭐ My favourite build · A Modern Ice Cream Experience</sub>
+**[FreshnFreeze](https://freshnfreeze.vercel.app/)** ↗ &nbsp;·&nbsp; <sub>⭐ My favourite build · A Modern Ice Cream Experience</sub>
 
 A visually immersive, fully responsive landing page for an artisan ice cream brand, with soft gradients, glass-inspired cards, smooth scroll animations and an interactive menu.
 

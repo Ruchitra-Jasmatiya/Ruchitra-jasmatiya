@@ -1,15 +1,5 @@
 <a name="top"></a>
 
-<!-- =====================================================================
-     RUCHITRA JASMATIYA  |  MAROON + OFF-WHITE PORTFOLIO README
-     One file. Every image loads from a web URL, so nothing else to upload.
-
-     TODO (only one thing left for you):
-       FreshnFreeze "VIEW CODE" button: search this file for
-       FRESHNFREEZE-REPO and replace that link with your real repo link.
-     ===================================================================== -->
-
-<!-- ============================== HEADER ============================== -->
 <table width="100%">
 <tr>
 

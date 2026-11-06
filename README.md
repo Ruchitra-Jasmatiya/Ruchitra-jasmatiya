@@ -13,7 +13,9 @@
 
 <img alt="Ruchitra Jasmatiya" src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=800&size=42&duration=2500&pause=1000&color=C2455E&vCenter=true&repeat=false&width=520&height=64&lines=Ruchitra+Jasmatiya" />
 
-<img alt="Software Developer, Mobile Developer, Full Stack Developer" src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=24&duration=2200&pause=900&color=800020&vCenter=true&repeat=true&width=520&height=40&lines=Software+Developer;Mobile+Developer;Full+Stack+Developer" />
+<img alt="Software Developer" src="https://img.shields.io/badge/Software%20Developer-6A1B9A?style=for-the-badge" />
+<img alt="Mobile Application" src="https://img.shields.io/badge/Mobile%20Application-6A1B9A?style=for-the-badge" />
+<img alt="Full Stack" src="https://img.shields.io/badge/Full%20Stack-6A1B9A?style=for-the-badge" />
 
 ✈️ **Open to relocate**
 
@@ -25,12 +27,14 @@
 
 </td>
 
-<!-- Animated project counts -->
+<!-- Static project counts -->
 <td width="32%" align="center" valign="middle">
 
-<img alt="Solo projects: 4" src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=22&duration=3000&pause=800&color=800020&center=true&vCenter=true&width=300&height=40&lines=SOLO+PROJECTS+%E2%80%94+4" />
-<img alt="Client projects: 3" src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=22&duration=3000&pause=800&color=5A3A1E&center=true&vCenter=true&width=300&height=40&lines=CLIENT+PROJECTS+%E2%80%94+3" />
-<img alt="Total projects: 7" src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=22&duration=3000&pause=800&color=800020&center=true&vCenter=true&width=300&height=40&lines=TOTAL+PROJECTS+%E2%80%94+7" />
+<img alt="Solo projects: 5" src="https://img.shields.io/badge/SOLO%20PROJECTS-5-800020?style=for-the-badge&labelColor=5C0A1E" />
+<br/><br/>
+<img alt="Client projects: 7" src="https://img.shields.io/badge/CLIENT%20PROJECTS-7-800020?style=for-the-badge&labelColor=5C0A1E" />
+<br/><br/>
+<img alt="Total projects: 30" src="https://img.shields.io/badge/TOTAL%20PROJECTS-30-800020?style=for-the-badge&labelColor=5C0A1E" />
 
 </td>
 
@@ -42,7 +46,7 @@
 <img alt="Profile views" src="https://hits.sh/github.com/Ruchitra-Jasmatiya.svg?style=for-the-badge&label=PROFILE%20VIEWS&extraCount=100&color=800020&labelColor=5C0A1E" />
 <img alt="Followers" src="https://img.shields.io/github/followers/Ruchitra-Jasmatiya?style=for-the-badge&logo=github&logoColor=F5F0E6&color=800020&labelColor=5C0A1E" />
 <img alt="Stars" src="https://img.shields.io/github/stars/Ruchitra-Jasmatiya?style=for-the-badge&logo=github&logoColor=800020&color=F0DDD8&labelColor=F0DDD8" />
-<img alt="Total repositories" src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Ruchitra-Jasmatiya&query=$.public_repos&label=TOTAL%20REPOS&style=for-the-badge&logo=github&logoColor=F5F0E6&color=800020&labelColor=5C0A1E" />
+<img alt="Total projects" src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Ruchitra-Jasmatiya&query=$.public_repos&label=TOTAL%20PROJECTS&style=for-the-badge&logo=github&logoColor=F5F0E6&color=800020&labelColor=5C0A1E" />
 
 </div>
 
@@ -56,13 +60,14 @@
 
 <img width="100%" alt="About me" src="https://capsule-render.vercel.app/api?type=rect&height=58&color=F5F0E6&stroke=800020&strokeWidth=2&text=ABOUT%20ME&fontColor=800020&fontSize=24&fontAlignY=55&animation=fadeIn" />
 
-I'm a passionate **Software Engineer** with a strong foundation in **AI, Machine Learning and Full Stack Development**. I love solving real-world problems, building scalable web and mobile applications, and continuously learning new technologies.
+I'm a **Software Engineer** with a strong foundation in **AI, Machine Learning and Full Stack Development**. I build scalable web and mobile applications, and I focus on turning complex problems into reliable, production-ready systems.
 
-<img src="https://img.shields.io/badge/PROBLEM_SOLVER-F0DDD8?style=for-the-badge" />
-<img src="https://img.shields.io/badge/FAST_LEARNER-F0DDD8?style=for-the-badge" />
-<br/>
-<img src="https://img.shields.io/badge/TEAM_PLAYER-F0DDD8?style=for-the-badge" />
-<img src="https://img.shields.io/badge/ALWAYS_CURIOUS-F0DDD8?style=for-the-badge" />
+**Technical focus**
+
+- 🧠 **AI & Computer Vision:** CNN-based face forgery detection and real-time face authentication
+- 🌐 **Full-stack Web:** React front ends with Django REST APIs and token-secured admin panels
+- 📱 **Mobile:** Flutter and Dart applications with face detection through Google ML Kit
+- ☁️ **Delivery:** PostgreSQL-backed services deployed on Vercel and Render
 
 </td>
 
@@ -123,22 +128,6 @@ I'm a passionate **Software Engineer** with a strong foundation in **AI, Machine
 </td>
 </tr>
 </table>
-
-<br/>
-
-<!-- PROJECTS AT A GLANCE -->
-<img width="100%" alt="Projects at a glance" src="https://capsule-render.vercel.app/api?type=rect&height=58&color=F5F0E6&stroke=800020&strokeWidth=2&text=PROJECTS%20AT%20A%20GLANCE&fontColor=800020&fontSize=24&fontAlignY=55&animation=fadeIn" />
-
-**🧩 Solo projects · 4**<br/>
-<img src="https://img.shields.io/badge/Sahyog-800020?style=for-the-badge" />
-<img src="https://img.shields.io/badge/AMS-800020?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Hospital_Management-800020?style=for-the-badge" />
-<img src="https://img.shields.io/badge/VeriFace--X-800020?style=for-the-badge" />
-
-**🤝 Client projects · 3**<br/>
-<img src="https://img.shields.io/badge/Taranhari-5A3A1E?style=for-the-badge" />
-<img src="https://img.shields.io/badge/FreshnFreeze-5A3A1E?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Nazario-5A3A1E?style=for-the-badge" />
 
 <br/>
 

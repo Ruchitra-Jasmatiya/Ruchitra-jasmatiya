@@ -295,8 +295,6 @@ Detects manipulated and AI-generated faces with a CNN deep-learning model and a 
 
 <td width="33%" align="center" valign="top">
 
-### 🏅
-
 **Client Appreciation**<br/>
 <sub>Details coming soon</sub><br/><br/>
 <img src="https://img.shields.io/badge/COMING_SOON-F0DDD8?style=for-the-badge&labelColor=800020&color=F0DDD8" />
@@ -307,8 +305,6 @@ Detects manipulated and AI-generated faces with a CNN deep-learning model and a 
 </table>
 
 <br/>
-
-<!-- LET'S CONNECT -->
 <table width="100%">
 <tr>
 

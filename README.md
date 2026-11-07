@@ -14,8 +14,6 @@
 <img alt="Mobile Application" src="https://img.shields.io/badge/Mobile%20Application-6A1B9A?style=for-the-badge" />
 <img alt="Full Stack" src="https://img.shields.io/badge/Full%20Stack-6A1B9A?style=for-the-badge" />
 
-✈️ **Open to relocate**
-
 <img alt="Tagline" src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=19&duration=3500&pause=900&color=C2455E&vCenter=true&width=480&height=34&lines=Turning+ideas+into+real-world+solutions;Building+AI-powered+web+and+mobile+apps;Fast.+Secure.+Beautiful." />
 
 <a href="https://linkedin.com/in/ruchitra-j-613a362a8"><img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-800020?style=for-the-badge&logo=linkedin&logoColor=F5F0E6" /></a>

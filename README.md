@@ -15,8 +15,6 @@
 <a href="https://github.com/Ruchitra-Jasmatiya"><img alt="GitHub" src="https://img.shields.io/badge/GITHUB-800020?style=for-the-badge&logo=github&logoColor=F5F0E6" /></a>
 <a href="mailto:ruchitrajasmatiya@gmail.com"><img alt="Email" src="https://img.shields.io/badge/ruchitrajasmatiya%40gmail.com-F0DDD8?style=for-the-badge&logo=gmail&logoColor=800020" /></a>
 </td>
-
-<!-- Static project counts -->
 <td width="32%" align="center" valign="middle">
 
 <img alt="Solo projects: 5" src="https://img.shields.io/badge/SOLO%20PROJECTS-5-800020?style=for-the-badge&labelColor=5C0A1E" />

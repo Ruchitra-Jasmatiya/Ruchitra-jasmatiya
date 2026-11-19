@@ -22,7 +22,6 @@
 <img alt="Total projects: 30" src="https://img.shields.io/badge/TOTAL%20PROJECTS-30-800020?style=for-the-badge&labelColor=5C0A1E" />
 
 </td>
-
 </tr>
 </table>
 

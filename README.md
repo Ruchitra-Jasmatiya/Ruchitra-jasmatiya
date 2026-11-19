@@ -334,7 +334,6 @@ Detects manipulated and AI-generated faces with a CNN deep-learning model and a 
 <br/><br/>
 
 <img alt="Contributors: 1, solo developer" src="https://img.shields.io/badge/CONTRIBUTORS-1_%7C_SOLO_DEVELOPER-800020?style=for-the-badge&labelColor=5C0A1E" />
-
 <br/><br/>
 
 <img width="100%" alt="Contribution graph" src="https://ghchart.rshah.org/800020/Ruchitra-Jasmatiya" />

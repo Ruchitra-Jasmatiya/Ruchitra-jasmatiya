@@ -120,7 +120,6 @@ I'm a **Software Engineer** with a strong foundation in **AI, Machine Learning a
 
 <br/>
 
-<!-- FEATURED PROJECTS -->
 <img width="100%" alt="Featured projects" src="https://capsule-render.vercel.app/api?type=rect&height=58&color=F5F0E6&stroke=800020&strokeWidth=2&text=FEATURED%20PROJECTS&fontColor=800020&fontSize=24&fontAlignY=55&animation=fadeIn" />
 
 <!-- 1. MASSUP -->

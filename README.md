@@ -147,7 +147,7 @@ A cinematic storefront for a pistachio protein brand, with a video hero, scroll-
 </tr>
 </table>
 
-<!-- 2. TARANHARI -->
+
 <table width="100%">
 <tr>
 <td width="36%" align="center" valign="middle">

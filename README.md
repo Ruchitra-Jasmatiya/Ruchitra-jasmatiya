@@ -10,7 +10,7 @@
 
 <td width="48%" valign="middle">
   <img alt="Ruchitra Jasmatiya" src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=800&size=42&duration=2500&pause=1000&color=C2455E&vCenter=true&repeat=false&width=520&height=64&lines=Ruchitra+Jasmatiya" />
-<img alt="Software Developer" src="https://img.shields.io/badge/Software%20Developer-6A1B9A?style=for-the-badge" />
+<img alt="Software Developer" src="https://img.shields.io/badge/Software%20Developer-6A1B9A?style=for-the-badge" />  
 <img alt="Mobile Application" src="https://img.shields.io/badge/Mobile%20Application-6A1B9A?style=for-the-badge" />
 <img alt="Full Stack" src="https://img.shields.io/badge/Full%20Stack-6A1B9A?style=for-the-badge" />
 <img alt="Tagline" src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=19&duration=3500&pause=900&color=C2455E&vCenter=true&width=480&height=34&lines=Turning+ideas+into+real-world+solutions;Building+AI-powered+web+and+mobile+apps;Fast.+Secure.+Beautiful." />

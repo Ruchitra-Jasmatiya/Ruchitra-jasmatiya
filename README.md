@@ -42,7 +42,6 @@
 
 <br/>
 
-<!-- ABOUT + SKILLS -->
 <table width="100%">
 <tr>
 

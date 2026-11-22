@@ -21,7 +21,7 @@
 <br/><br/>
 <img alt="Client projects: 7" src="https://img.shields.io/badge/CLIENT%20PROJECTS-7-800020?style=for-the-badge&labelColor=5C0A1E" />
 <br/><br/>
-<img alt="Total projects: 30" src="https://img.shields.io/badge/TOTAL%20PROJECTS-30-800020?style=for-the-badge&labelColor=5C0A1E" />
+<img alt="Total projects: 30" src="https://img.shields.io/badge/TOTAL%20PROJECTS-30-800020?style=for-the-badge&labelColor=5C0A1E" /> 
 
 </td>
 </tr>

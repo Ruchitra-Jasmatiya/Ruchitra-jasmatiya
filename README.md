@@ -1,7 +1,7 @@
 <a name="top"></a>  
 <table width="100%">
 <tr>
-<td width="20%" align="center" valign="middle">
+<td width="20%" align="center" valign="middle"> 
 
   
   <img width="170" alt="Ruchitra Jasmatiya" src="https://wsrv.nl/?url=github.com/Ruchitra-Jasmatiya.png&w=300&h=300&fit=cover&mask=circle" />

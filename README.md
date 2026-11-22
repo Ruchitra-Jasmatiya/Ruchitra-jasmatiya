@@ -6,8 +6,6 @@
   
   <img width="170" alt="Ruchitra Jasmatiya" src="https://wsrv.nl/?url=github.com/Ruchitra-Jasmatiya.png&w=300&h=300&fit=cover&mask=circle" />
 </td>
-
-
 <td width="48%" valign="middle">
   <img alt="Ruchitra Jasmatiya" src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=800&size=42&duration=2500&pause=1000&color=C2455E&vCenter=true&repeat=false&width=520&height=64&lines=Ruchitra+Jasmatiya" />
 <img alt="Software Developer" src="https://img.shields.io/badge/Software%20Developer-6A1B9A?style=for-the-badge" />  

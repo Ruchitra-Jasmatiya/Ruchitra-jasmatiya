@@ -347,4 +347,3 @@ Detects manipulated and AI-generated faces with a CNN deep-learning model and a 
 <a href="#top"><img src="https://img.shields.io/badge/BACK_TO_TOP-800020?style=for-the-badge&logo=arrowup&logoColor=F5F0E6" /></a>
 
 </div>
-

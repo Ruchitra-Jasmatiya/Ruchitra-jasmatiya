@@ -140,7 +140,7 @@ A cinematic storefront for a pistachio protein brand, with a video hero, scroll-
 
 <a href="https://massup-kohl.vercel.app/"><img alt="Live demo" src="https://img.shields.io/badge/LIVE_DEMO_%E2%86%92-800020?style=for-the-badge" /></a>
 <a href="https://github.com/Ruchitra-Jasmatiya/animation-clash"><img alt="View code" src="https://img.shields.io/badge/VIEW_CODE_%E2%86%92-F0DDD8?style=for-the-badge&logo=github&logoColor=800020" /></a>
-
+     
 </td>
 </tr>
 </table>

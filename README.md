@@ -305,6 +305,8 @@ Detects manipulated and AI-generated faces with a CNN deep-learning model and a 
   <img alt="Small steps every day lead to big results" src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=26&duration=2500&pause=1000&color=C2455E&center=true&vCenter=true&multiline=true&repeat=false&width=380&height=120&lines=%E2%80%9CSmall+steps+every+day;lead+to+big+results.%E2%80%9D" />
 </td>
 
+
+   
 <td width="55%" valign="middle">
 
 ### ✈️ Let's Connect

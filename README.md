@@ -330,7 +330,7 @@ Detects manipulated and AI-generated faces with a CNN deep-learning model and a 
 <img height="185" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Ruchitra-Jasmatiya&show_icons=true&bg_color=F5F0E6&title_color=800020&icon_color=B5485D&text_color=4A1020&ring_color=800020&border_color=800020&count_private=true" />
 <img height="185" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruchitra-Jasmatiya&layout=compact&langs_count=8&bg_color=F5F0E6&title_color=800020&text_color=4A1020&border_color=800020" />
 
-<br/><br/>
+<br/><br/>    
 
 <img alt="Contributors: 1, solo developer" src="https://img.shields.io/badge/CONTRIBUTORS-1_%7C_SOLO_DEVELOPER-800020?style=for-the-badge&labelColor=5C0A1E" />
 <br/><br/>

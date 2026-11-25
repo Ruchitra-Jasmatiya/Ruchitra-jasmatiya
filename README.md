@@ -340,7 +340,7 @@ Detects manipulated and AI-generated faces with a CNN deep-learning model and a 
 
 <br/><br/>
 
-⭐ *If you like my work, drop a star on a project!* ⭐
+⭐ *If you like my work, drop a star on project!* ⭐
 
 <img width="100%" alt="Thanks for visiting" src="https://capsule-render.vercel.app/api?type=rect&section=footer&height=130&color=0:5C0A1E,50:800020,100:5C0A1E&stroke=F5F0E6&strokeWidth=3&animation=twinkling&text=THANKS%20FOR%20VISITING&fontColor=F5F0E6&fontSize=32&fontAlignY=45&desc=Open%20to%20opportunities&descSize=16&descAlignY=68&descColor=E8C9A0" />
 
